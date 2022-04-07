@@ -26,7 +26,7 @@
          "description": "Setting this to ANYTHING will enable environment variables.",
          "value": ""
       },
-      "_DATABASE_URI": {
+      "DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one. Watch Video (check out Redme.md)",
          "value": ""
       },      
